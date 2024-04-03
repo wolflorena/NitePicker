@@ -1,0 +1,800 @@
+[
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "genre": "Crime, Drama",
+      "production_year": 1972,
+      "age_range": "18+",
+      "duration": "175 minutes",
+      "background": "/assets/backgrounds/TheGodfather.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["crime", "drama"],
+      "q2": 1972,
+      "q3": "18+",
+      "qm0": 175
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "genre": "Drama",
+      "production_year": 1994,
+      "age_range": "18+",
+      "duration": "142 minutes",
+      "background": "/assets/backgrounds/TheShawshankRedemption.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["drama"],
+      "q2": 1994,
+      "q3": "18+",
+      "qm0": 142
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Society of the Snow",
+      "description": "A thrilling adventure unfolds as a group of explorers embark on a dangerous journey through the icy wilderness.",
+      "genre": "Adventure, Biography, Drama",
+      "production_year": 2023,
+      "age_range": "16+",
+      "duration": "144 minutes",
+      "background": "/assets/backgrounds/SocietyOfTheSnow.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["adventure", "biography", "drama"],
+      "q2": 2023,
+      "q3": "16+",
+      "qm0": 144
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Dark Knight",
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "genre": "Action, Crime, Drama",
+      "production_year": 2008,
+      "age_range": "13+",
+      "duration": "152 minutes",
+      "background": "/assets/backgrounds/TheDarkKnight.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "crime", "drama"],
+      "q2": 2008,
+      "q3": "13+",
+      "qm0": 152
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "genre": "Drama, Romance",
+      "production_year": 1994,
+      "age_range": "13+",
+      "duration": "142 minutes",
+      "background": "/assets/backgrounds/ForrestGump.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["drama", "romance"],
+      "q2": 1994,
+      "q3": "13+",
+      "qm0": 142
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Schindler's List",
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "genre": "Biography, Drama, History",
+      "production_year": 1993,
+      "age_range": "18+",
+      "duration": "195 minutes",
+      "background": "/assets/backgrounds/SchindlersList.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["biography", "drama", "history"],
+      "q2": 1993,
+      "q3": "18+",
+      "qm0": 195
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "genre": "Adventure, Drama, Fantasy",
+      "production_year": 2001,
+      "age_range": "13+",
+      "duration": "178 minutes",
+      "background": "/assets/backgrounds/TheLordOfTheRingsTheFellowshipOfTheRing.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["adventure", "drama", "fantasy"],
+      "q2": 2001,
+      "q3": "13+",
+      "qm0": 178
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Pursuit of Happyness",
+      "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional endeavor.",
+      "genre": "Biography, Drama",
+      "production_year": 2016,
+      "age_range": "13+",
+      "duration": "117 minutes",
+      "background": "/assets/backgrounds/ThePursuitOfHappyness.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["biography", "drama"],
+      "q2": 2016,
+      "q3": "13+",
+      "qm0": 117
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "genre": "Action, Adventure, Sci-Fi",
+      "production_year": 2010,
+      "age_range": "13+",
+      "duration": "148 minutes",
+      "background": "/assets/backgrounds/Inception.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "adventure", "sci-fi"],
+      "q2": 2010,
+      "q3": "13+",
+      "qm0": 148
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Matrix",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "genre": "Action, Sci-Fi",
+      "production_year": 1999,
+      "age_range": "18+",
+      "duration": "136 minutes",
+      "background": "/assets/backgrounds/TheMatrix.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "sci-fi"],
+      "q2": 1999,
+      "q3": "18+",
+      "qm0": 136
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Silence of the Lambs",
+      "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 1991,
+      "age_range": "18+",
+      "duration": "118 minutes",
+      "background": "/assets/backgrounds/TheSilenceOfTheLambs.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 1991,
+      "q3": "18+",
+      "qm0": 118
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Amazing Spider-Man",
+      "description": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to solve the mystery of his parent's mysterious death.",
+      "genre": "Action, Adventure, Sci-Fi",
+      "production_year": 2013,
+      "age_range": "13+",
+      "duration": "136 minutes",
+      "background": "/assets/backgrounds/TheAmazingSpiderMan.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "adventure", "sci-fi"],
+      "q2": 2013,
+      "q3": "13+",
+      "qm0": 136
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Departed",
+      "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 2006,
+      "age_range": "18+",
+      "duration": "151 minutes",
+      "background": "/assets/backgrounds/TheDeparted.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 2006,
+      "q3": "18+",
+      "qm0": 151
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Saving Private Ryan",
+      "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "genre": "Drama, War",
+      "production_year": 1998,
+      "age_range": "18+",
+      "duration": "169 minutes",
+      "background": "/assets/backgrounds/SavingPrivateRyan.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["drama", "war"],
+      "q2": 1998,
+      "q3": "18+",
+      "qm0": 169
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Green Mile",
+      "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+      "genre": "Crime, Drama, Fantasy",
+      "production_year": 1999,
+      "age_range": "18+",
+      "duration": "189 minutes",
+      "background": "/assets/backgrounds/TheGreenMile.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["crime", "drama", "fantasy"],
+      "q2": 1999,
+      "q3": "18+",
+      "qm0": 189
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Shining",
+      "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "genre": "Drama, Horror",
+      "production_year": 1980,
+      "age_range": "18+",
+      "duration": "146 minutes",
+      "background": "/assets/backgrounds/TheShining.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["drama", "horror"],
+      "q2": 1980,
+      "q3": "18+",
+      "qm0": 146
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Gladiator",
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "genre": "Action, Adventure, Drama",
+      "production_year": 2000,
+      "age_range": "18+",
+      "duration": "155 minutes",
+      "background": "/assets/backgrounds/Gladiator.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "adventure", "drama"],
+      "q2": 2000,
+      "q3": "18+",
+      "qm0": 155
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Godzilla: King of the Monsters",
+      "description": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+      "genre": "Adventure, Action, Fantasy",
+      "production_year": 2019,
+      "age_range": "13+",
+      "duration": "132 minutes",
+      "background": "/assets/backgrounds/GodzillaKingOfTheMonsters.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["adventure", "action", "fantasy"],
+      "q2": 2019,
+      "q3": "13+",
+      "qm0": 132
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Barbie",
+      "description": "A doll living in 'Barbieland' is expelled for not being perfect enough and sets off on an adventure in the real world. A Live-action feature film based on the popular line of Barbie toys.",
+      "genre": "Fantasy, Adventure, Comedy",
+      "production_year": 2023,
+      "age_range": "13+",
+      "duration": "114 minutes",
+      "background": "/assets/backgrounds/Barbie.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["adventure", "fantasy", "comedy"],
+      "q2": 2023,
+      "q3": "13+",
+      "qm0": 114
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Dark Knight Rises",
+      "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+      "genre": "Action, Thriller",
+      "production_year": 2013,
+      "age_range": "13+",
+      "duration": "164 minutes",
+      "background": "/assets/backgrounds/TheDarkKnightRises.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "thriller"],
+      "q2": 2013,
+      "q3": "13+",
+      "qm0": 164
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Avatar",
+      "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "genre": "Action, Adventure, Fantasy",
+      "production_year": 2009,
+      "age_range": "13+",
+      "duration": "162 minutes",
+      "background": "/assets/backgrounds/Avatar.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "adventure", "fantasy"],
+      "q2": 2009,
+      "q3": "13+",
+      "qm0": 162
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Wolf of Wall Street",
+      "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "genre": "Biography, Crime, Drama",
+      "production_year": 2013,
+      "age_range": "18+",
+      "duration": "180 minutes",
+      "background": "/assets/backgrounds/TheWolfOfWallStreet.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["biography", "crime", "drama"],
+      "q2": 2013,
+      "q3": "18+",
+      "qm0": 180
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "A Star is Born",
+      "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
+      "genre": "Music, Drama, Romance",
+      "production_year": 2018,
+      "age_range": "13+",
+      "duration": "136 minutes",
+      "background": "/assets/backgrounds/AStarIsBorn.jpg"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["music", "drama", "romance"],
+      "q2": 2018,
+      "q3": "13+",
+      "qm0": 136
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Breaking Bad",
+      "description": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to create and sell the drug.",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 2008,
+      "age_range": "18+",
+      "number_seasons": 5,
+      "background": "/assets/backgrounds/BreakingBad.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 2008,
+      "q3": "18+",
+      "qt0": 5
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Game of Thrones",
+      "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "genre": "Action, Adventure, Drama",
+      "production_year": 2011,
+      "age_range": "18+",
+      "number_seasons": 8,
+      "background": "/assets/backgrounds/GameOfThrones.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "drama"],
+      "q2": 2011,
+      "q3": "18+",
+      "qt0": 8
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Stranger Things",
+      "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.",
+      "genre": "Drama, Fantasy, Horror",
+      "production_year": 2016,
+      "age_range": "13+",
+      "number_seasons": 4,
+      "background": "/assets/backgrounds/StrangerThings.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["drama", "fantasy", "horror"],
+      "q2": 2016,
+      "q3": "13+",
+      "qt0": 4
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Crown",
+      "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.",
+      "genre": "Biography, Drama, History",
+      "production_year": 2016,
+      "age_range": "18+",
+      "number_seasons": 4,
+      "background": "/assets/backgrounds/TheCrown.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["biography", "drama", "history"],
+      "q2": 2016,
+      "q3": "18+",
+      "qt0": 4
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Office",
+      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+      "genre": "Comedy",
+      "production_year": 2005,
+      "age_range": "13+",
+      "number_seasons": 9,
+      "background": "/assets/backgrounds/TheOffice.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["comedy"],
+      "q2": 2005,
+      "q3": "13+",
+      "qt0": 9
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Friends",
+      "description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+      "genre": "Comedy, Romance",
+      "production_year": 1994,
+      "age_range": "13+",
+      "number_seasons": 10,
+      "background": "/assets/backgrounds/Friends.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["comedy", "romance"],
+      "q2": 1994,
+      "q3": "13+",
+      "qt0": 10
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Sherlock",
+      "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+      "genre": "Crime, Drama, Mystery",
+      "production_year": 2010,
+      "age_range": "13+",
+      "number_seasons": 4,
+      "background": "/assets/backgrounds/Sherlock.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["crime", "drama", "mystery"],
+      "q2": 2010,
+      "q3": "13+",
+      "qt0": 4
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Mandalorian",
+      "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+      "genre": "Action, Adventure, Fantasy",
+      "production_year": 2019,
+      "age_range": "13+",
+      "number_seasons": 2,
+      "background": "/assets/backgrounds/TheMandalorian.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "fantasy"],
+      "q2": 2019,
+      "q3": "13+",
+      "qt0": 2
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Witcher",
+      "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+      "genre": "Action, Adventure, Drama",
+      "production_year": 2019,
+      "age_range": "18+",
+      "number_seasons": 2,
+      "background": "/assets/backgrounds/TheWitcher.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "drama"],
+      "q2": 2019,
+      "q3": "18+",
+      "qt0": 2
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Mindhunter",
+      "description": "Set in the late 1970s, two FBI agents expand criminal science by delving into the psychology of murder and getting uneasily close to all-too-real monsters.",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 2017,
+      "age_range": "18+",
+      "number_seasons": 2,
+      "background": "/assets/backgrounds/Mindhunter.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 2017,
+      "q3": "18+",
+      "qt0": 2
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Money Heist",
+      "description": "A group of unique robbers assault the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain and take home 2.4 billion euros.",
+      "genre": "Action, Crime, Drama",
+      "production_year": 2017,
+      "age_range": "18+",
+      "number_seasons": 5,
+      "background": "/assets/backgrounds/MoneyHeist.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "crime", "drama"],
+      "q2": 2017,
+      "q3": "18+",
+      "qt0": 5
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Narcos",
+      "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+      "genre": "Biography, Crime, Drama",
+      "production_year": 2015,
+      "age_range": "18+",
+      "number_seasons": 3,
+      "background": "/assets/backgrounds/Narcos.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["biography", "crime", "drama"],
+      "q2": 2015,
+      "q3": "18+",
+      "qt0": 3
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Umbrella Academy",
+      "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+      "genre": "Action, Adventure, Comedy",
+      "production_year": 2019,
+      "age_range": "18+",
+      "number_seasons": 3,
+      "background": "/assets/backgrounds/TheUmbrellaAcademy.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "comedy"],
+      "q2": 2019,
+      "q3": "18+",
+      "qt0": 3
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Vikings",
+      "description": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
+      "genre": "Action, Adventure, Drama",
+      "production_year": 2013,
+      "age_range": "18+",
+      "number_seasons": 6,
+      "background": "/assets/backgrounds/Vikings.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "drama"],
+      "q2": 2013,
+      "q3": "18+",
+      "qt0": 6
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Black Mirror",
+      "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+      "genre": "Drama, Sci-Fi, Thriller",
+      "production_year": 2011,
+      "age_range": "18+",
+      "number_seasons": 5,
+      "background": "/assets/backgrounds/BlackMirror.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["drama", "sci-fi", "thriller"],
+      "q2": 2011,
+      "q3": "18+",
+      "qt0": 5
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Wednesday",
+      "description": "A new take on The Addams Family, focusing on the adult Wednesday Addams.",
+      "genre": "Comedy, Crime, Fantasy",
+      "production_year": 2022,
+      "age_range": "13+",
+      "number_seasons": 1,
+      "background": "/assets/backgrounds/Wednesday.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["comedy", "crime", "fantasy"],
+      "q2": 2022,
+      "q3": "13+",
+      "qt0": 1
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Elite",
+      "description": "When three working-class teenagers begin attending an exclusive private school in Spain, the clash between them and the wealthy students leads to murder.",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 2018,
+      "age_range": "16+",
+      "number_seasons": 8,
+      "background": "/assets/backgrounds/Elite.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 2018,
+      "q3": "16+",
+      "qt0": 8
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "You",
+      "description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "genre": "Crime, Romance, Drama",
+      "production_year": 2018,
+      "age_range": "18+",
+      "number_seasons": 5,
+      "background": "/assets/backgrounds/You.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["crime", "romance", "drama"],
+      "q2": 2018,
+      "q3": "18+",
+      "qt0": 5
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Outer Banks",
+      "description": "A group of teenagers from the wrong side of the tracks stumble upon a treasure map that unearths a long-buried secret.",
+      "genre": "Action, Crime, Drama",
+      "production_year": 2020,
+      "age_range": "16+",
+      "number_seasons": 4,
+      "background": "/assets/backgrounds/OuterBanks.jpg"
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "crime", "drama"],
+      "q2": 2020,
+      "q3": "16+",
+      "qt0": 4
+    }
+  }
+]
